@@ -23,7 +23,6 @@ strong{
     height: 550px;
 }
 
-h2 {
-    font-size: 25px;
-
+.itens {
+    font-style: italic;
 }
