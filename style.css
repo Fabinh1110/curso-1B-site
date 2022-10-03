@@ -39,6 +39,7 @@ h2 {
 ul {
     font-size: 30j;
     display: inline-block;
+    vertical-align: top;
 } 
 
 #fk2 {
