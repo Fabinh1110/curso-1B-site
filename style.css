@@ -36,8 +36,8 @@ h2 {
     font-size: 50px ;
 }
 
-.ul {
-    font-size: 50px;
+ul {
+    display: inline-block;
 } 
 
 #fk2 {
