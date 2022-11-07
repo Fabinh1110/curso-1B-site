@@ -2,7 +2,29 @@ header{
     background: rgb(95, 89, 89);
 }
 
+h1{
+    display: inline;
+}
+#logo{
+    width: 250px;
+}
+
 nav li {
     display: inline;
     margin: 10px;
+}
+
+nav{
+    display: inline-block;
+    position: absolute;
+    right: 30px;
+    top: 110px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: aqua;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
 }
